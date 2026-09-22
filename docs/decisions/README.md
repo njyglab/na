@@ -5,3 +5,4 @@
 파일 이름은 `NNNN-short-title.md`. 날짜, 상태(제안/채택/대체됨), 맥락, 결정, 대안, 결과와 한계를 적는다. 대체하면 기존 기록에서 새 기록으로 연결한다.
 
 - [0001 — 모노레포 기반](0001-monorepo-workspace.md)
+- [0002 — JavaScript 계열과 Turborepo](0002-js-turborepo.md)
