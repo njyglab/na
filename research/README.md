@@ -15,3 +15,5 @@
 - [Docker 자체 호스팅과 CI/CD 검토](docker-delivery.md): Anchor·Memos의 운영 표면과 na의 초기 제안.
 
 - [다음 세션: 도메인·데이터 모델 연구](next-session.md)
+
+- [Personal Knowledge Systems 연구](knowledge-systems/README.md): 사례 목록·횡단 질문·첫 Memos/Bullet Journal 조사. 현재 연구의 진입점.

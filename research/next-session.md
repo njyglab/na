@@ -1,5 +1,7 @@
 # 다음 세션: 사례 연구와 도메인·데이터 모델링
 
+후속 갱신(2026-09-24): [현재 연구 진입점](knowledge-systems/README.md)과 [사례 목록](knowledge-systems/cases/README.md)을 먼저 읽는다. Memos/Bullet Journal의 문서 기반 초기 조사를 작성했으며 다음 묶음은 Darwin/Luhmann이다. 아래는 최초 세션 안내로 보존한다.
+
 작성일: 2026-09-22. 현재 사용자의 우선순위는 개발 기반 구현보다 리서치와 사례 연구다. [개발 기반 검증 5개](../docs/tasks.md)는 미완료 후속 과제로 유지한다.
 
 ## 먼저 읽을 문서
