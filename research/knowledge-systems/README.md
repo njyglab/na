@@ -6,6 +6,8 @@
 
 ## 진입점
 
+- [다음 세션 인수인계](next-session-handoff.md): Darwin·Luhmann의 실제 기록 인스턴스를 사용자 질문 중심으로 탐구.
+
 - [사례 목록](cases/README.md): 전체 대상, 경계, 조사 상태.
 - [연구 질문](questions/README.md): 여러 사례에 걸친 질문과 다음 확인.
 - [분석 프레임](framework.md), [조사 계획과 S1–S6](plan.md).
