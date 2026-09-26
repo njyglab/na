@@ -1,6 +1,6 @@
 # Personal Knowledge Systems 연구
 
-갱신: 2026-09-24. 상태: 첫 묶음의 문서 기반 초기 조사. 제품 실행·사용자 실험은 미수행.
+갱신: 2026-09-26. 상태: Memos·Bullet Journal 문서 조사와 Darwin 표본 분석. 제품 실행·사용자 실험은 미수행.
 
 사례 자체의 기술 → Knowledge → Knowledge System → Interaction → Human Outcome → na implications 순서로 연구한다. 제품 요구사항은 [현재 제품 문서](../../docs/product.md)가 기준이다.
 
@@ -13,6 +13,7 @@
 - [분석 프레임](framework.md), [조사 계획과 S1–S6](plan.md).
 - [첫 비교: 포착과 검토](comparisons/capture-and-review.md).
 - [작업 어휘](synthesis/vocabulary.md), [초기 지도](synthesis/case-map.md), [na 가설](synthesis/na-implications.md).
+- [Darwin 노트 패턴·기호·작성 예시](synthesis/darwin-note-patterns.md): RN·B·M의 10개 표본 묶음 분석. [출처·주장 장부](cases/darwin.md).
 - [사례 양식](templates/case.md), [질문 양식](templates/question.md).
 
 ## 운영
@@ -25,4 +26,4 @@
 
 [전달받은 원본](../research01-handoff/README.md)은 보존한다. framework와 plan은 해당 패키지에서 옮긴 운영 문서로, 이후 수정은 이 폴더에서 한다. 원본의 “na 맥락 미제공”은 인수인계 당시의 한계다. 현재는 프로젝트 문서를 확인했으며 기존 수동 daily log MVP·온라인 운영 합의를 유지한다. 연구 질문을 새 요구사항으로 자동 승격하지 않는다.
 
-다음 조사 묶음: Darwin + Luhmann의 시기·자료군 확정과 원자료 분석. 이후 Notion / Obsidian / Anchor. 첫 묶음의 실행 검증은 별도로 남긴다.
+다음 조사: Darwin 표본의 원고 대조·다른 권을 통한 반례 확인, 또는 사용자 질문에 따른 Luhmann의 자료군 선정과 원자료 분석. 이후 Notion / Obsidian / Anchor. 첫 묶음의 실행 검증은 별도로 남긴다.

@@ -1,12 +1,12 @@
 # 사례 목록
 
-대상은 [인수인계 범위](../../research01-handoff/pkm-study.md)의 2절에서 가져왔다. 미착수 행은 조사 결과가 아니다. 상태는 2026-09-24 기준.
+대상은 [인수인계 범위](../../research01-handoff/pkm-study.md)의 2절에서 가져왔다. 미착수 행은 조사 결과가 아니다. 상태는 2026-09-26 기준.
 
 | ID / 사례 | 종류 | 조사 경계 | 상태 |
 |---|---|---|---|
 | [Memos](memos.md) | 소프트웨어 | usememos/memos, 열람한 main 문서·API 계약 | 초기 조사 |
 | [Bullet Journal](bullet-journal.md) | 방법론 | 공식 입문·migration 안내 | 초기 조사 |
-| Darwin (`darwin`) | 역사적 실천 | 노트의 시기·자료군 선정부터 | 미착수 |
+| [Darwin](darwin.md) | 역사적 실천 | RN·B·M, 1987년 편집본 10개 표본 묶음 | 문단 패턴·기호 초기 조사; 원고 대조 미완료 |
 | Luhmann (`luhmann`) | 역사적 실천 | 카드 자료군과 당사자 설명을 구분 | 미착수 |
 | Notion (`notion`) | 소프트웨어 | 기본 기능·설정·API의 경계 | 미착수 |
 | Obsidian (`obsidian`) | 소프트웨어 | 기본 기능·공식/외부 플러그인 구분 | 미착수 |
