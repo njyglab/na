@@ -16,6 +16,7 @@ na는 나의 사고와 활동이 이어지는 개인 인지 환경이다. 기록
 - [버전관리와 기여 방법](CONTRIBUTING.md)
 - [개발 환경과 SDLC 기준안](docs/sdlc.md)
 - [방향·용어·MVP 범위](docs/product.md)
+- [시스템 설계 문제 장부](research/design-problems.md): 메모의 독립성, 주소체계, 재탐색과 유지 비용 등 열린 문제
 - [결정 기록](docs/decisions/README.md)
 
 ```text

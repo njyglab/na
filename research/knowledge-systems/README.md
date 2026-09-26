@@ -10,6 +10,7 @@
 
 - [사례 목록](cases/README.md): 전체 대상, 경계, 조사 상태.
 - [연구 질문](questions/README.md): 여러 사례에 걸친 질문과 다음 확인.
+- [시스템 설계 문제 장부](../design-problems.md): 사례 연구와 사용자 경험에서 나온 na의 열린 문제. 설계 후보와 채택된 요구사항을 구별.
 - [분석 프레임](framework.md), [조사 계획과 S1–S6](plan.md).
 - [첫 비교: 포착과 검토](comparisons/capture-and-review.md).
 - [작업 어휘](synthesis/vocabulary.md), [초기 지도](synthesis/case-map.md), [na 가설](synthesis/na-implications.md).
