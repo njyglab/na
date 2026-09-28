@@ -7,9 +7,10 @@
 | [Memos](memos.md) | 소프트웨어 | usememos/memos, 열람한 main 문서·API 계약 | 초기 조사 |
 | [Bullet Journal](bullet-journal.md) | 방법론 | 공식 입문·migration 안내 | 초기 조사 |
 | [Darwin](darwin.md) | 역사적 실천 | RN·B·M, 1987년 편집본 10개 표본 묶음 | 문단 패턴·기호 초기 조사; 원고 대조 미완료 |
-| Luhmann (`luhmann`) | 역사적 실천 | 카드 자료군과 당사자 설명을 구분 | 미착수 |
+| [Luhmann](luhmann.md) | 역사적 실천 | ZK I·II 개관, 편집 원칙, 9/8 주변 탐색 | 2026-09-28 초기 조사; 동일 주제 비교 미완료 |
 | Notion (`notion`) | 소프트웨어 | 기본 기능·설정·API의 경계 | 미착수 |
-| Obsidian (`obsidian`) | 소프트웨어 | 기본 기능·공식/외부 플러그인 구분 | 미착수 |
+| Obsidian (`obsidian`) | 소프트웨어 | 기본 기능·공식/외부 플러그인 구분 | [루만 비교](../synthesis/luhmann-note-system.md)에서 공식 기능 문서 확인; 작성 실험 전 |
+| Roam Research (`roam`) | 소프트웨어 | 블록 참조·태그·공개 help 그래프 | [루만 비교](../synthesis/luhmann-note-system.md) 초기 조사; 편집 실험 전 |
 | zhfahim/anchor (`anchor`) | 소프트웨어 | 저장소 정체와 버전 확인부터 | 미착수 |
 | Zettelkasten (`zettelkasten`) | 방법론 | 계열·저자·판본을 좁힌 뒤 분석 | 미착수 |
 | Commonplace book (`commonplace-book`) | 방법론 | 시대·사용자·색인 규칙을 특정 | 미착수 |

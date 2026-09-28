@@ -6,6 +6,8 @@
 
 ## 진입점
 
+- [루만의 노트박스: 배열·참조·탐험, 그리고 디지털 도구](synthesis/luhmann-note-system.md): ZK I·II, 실제 탐색 경로, Obsidian·Roam 비교. [출처·주장 장부](cases/luhmann.md). 2026-09-28 추가.
+
 - [다음 세션 인수인계](next-session-handoff.md): Darwin·Luhmann의 실제 기록 인스턴스를 사용자 질문 중심으로 탐구.
 
 - [사례 목록](cases/README.md): 전체 대상, 경계, 조사 상태.
