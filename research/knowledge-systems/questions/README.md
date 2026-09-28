@@ -18,3 +18,8 @@
 PIM → Q01/Q04/Q06; cognitive offloading → Q01/Q03; distributed cognition → Q03/Q05; sensemaking → Q02/Q05; refinding → Q03/Q06. 이는 검색 계획이며 논문을 검토했다는 뜻이 아니다.
 
 역사 사례의 공정한 비교는 Q03, AI 해석·사용자 수정은 Q02/Q06에 연결한다. Xanadu·RAG 확장은 현재 사례로 설명되지 않는 공백이 생길 때 판단한다. MVP/실험/장기 경계는 [na 시사점](../synthesis/na-implications.md)에서 다룬다.
+
+## 2026-09-27 확장
+
+- Q07: 공통 기능을 어떤 책임·연산으로 분해하면 의미를 보존하며 재구성할 수 있는가? [연구 방향과 평가 기준](../notion-research-direction.md). Q04의 단위 분석과 Q01의 유지 비용을 연결한다.
+- Q08: 기업 KMS, 온톨로지 모델·검증·추론·업무 실행은 각각 어떤 문제를 더 다루는가? [지형도](../synthesis/software-landscape.md). 현재 분류 가설이며 모든 계층을 구현하자는 요구가 아니다.

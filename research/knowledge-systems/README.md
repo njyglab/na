@@ -1,12 +1,14 @@
 # Personal Knowledge Systems 연구
 
-갱신: 2026-09-26. 상태: Memos·Bullet Journal 문서 조사와 Darwin 표본 분석. 제품 실행·사용자 실험은 미수행.
+갱신: 2026-09-27. 상태: Memos·Bullet Journal·Notion 초기 문서 조사, Darwin 표본 분석과 소프트웨어 지형도 확장. 제품 실행·사용자 실험은 미수행.
 
 사례 자체의 기술 → Knowledge → Knowledge System → Interaction → Human Outcome → na implications 순서로 연구한다. 제품 요구사항은 [현재 제품 문서](../../docs/product.md)가 기준이다.
 
 ## 진입점
 
 - [루만의 노트박스: 배열·참조·탐험, 그리고 디지털 도구](synthesis/luhmann-note-system.md): ZK I·II, 실제 탐색 경로, Obsidian·Roam 비교. [출처·주장 장부](cases/luhmann.md). 2026-09-28 추가.
+
+- [Notion 중심 연구 방향](notion-research-direction.md): 공통 책임·연산·통제·재구성 가능성. [확장 소프트웨어 지형도](synthesis/software-landscape.md).
 
 - [다음 세션 인수인계](next-session-handoff.md): Darwin·Luhmann의 실제 기록 인스턴스를 사용자 질문 중심으로 탐구.
 
@@ -29,4 +31,4 @@
 
 [전달받은 원본](../research01-handoff/README.md)은 보존한다. framework와 plan은 해당 패키지에서 옮긴 운영 문서로, 이후 수정은 이 폴더에서 한다. 원본의 “na 맥락 미제공”은 인수인계 당시의 한계다. 현재는 프로젝트 문서를 확인했으며 기존 수동 daily log MVP·온라인 운영 합의를 유지한다. 연구 질문을 새 요구사항으로 자동 승격하지 않는다.
 
-다음 조사: Darwin 표본의 원고 대조·다른 권을 통한 반례 확인, 또는 사용자 질문에 따른 Luhmann의 자료군 선정과 원자료 분석. 이후 Notion / Obsidian / Anchor. 첫 묶음의 실행 검증은 별도로 남긴다.
+현재 추가 방향은 Notion 중심의 소프트웨어 분해 연구다. Darwin 표본의 원고 대조·반례 확인과 사용자 질문에 따른 Luhmann 탐구도 열린 경로로 유지한다. Obsidian / Anchor와 첫 묶음의 실행 검증은 후속 과제다.
