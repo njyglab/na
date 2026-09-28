@@ -13,6 +13,8 @@
 
 ## 문헌 연구 축
 
+2026-09-28 [Roam 조사](../cases/roam.md) 추가: Q01에 포착 뒤 구조화, Q02에 참조·변형·AI 작성 주체, Q04/Q07에 블록 식별과 외부 연산, Q05/Q06에 명시적 연결과 의미 유사도의 차이를 연결했다. [백서와 현재 방향](../synthesis/roam-whitepaper-and-direction.md). 구현 설명과 인간 성과는 구별한다.
+
 2026-09-28 [루만 조사](../cases/luhmann.md) 추가: Q01에 선택적 색인과 자동 backlink의 비용, Q02에 참조·복사·변형의 구별, Q04/Q05에 카드·주소·편집 표현, Q06에 국소 경로와 복귀 경험을 연결했다. [상세 설명과 미수행 실험](../synthesis/luhmann-note-system.md). 인간 성과는 검증하지 않았다.
 
 PIM → Q01/Q04/Q06; cognitive offloading → Q01/Q03; distributed cognition → Q03/Q05; sensemaking → Q02/Q05; refinding → Q03/Q06. 이는 검색 계획이며 논문을 검토했다는 뜻이 아니다.

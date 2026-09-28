@@ -1,10 +1,12 @@
 # Personal Knowledge Systems 연구
 
-갱신: 2026-09-27. 상태: Memos·Bullet Journal·Notion 초기 문서 조사, Darwin 표본 분석과 소프트웨어 지형도 확장. 제품 실행·사용자 실험은 미수행.
+갱신: 2026-09-28. 상태: Memos·Bullet Journal·Notion 초기 문서 조사, Darwin 표본 분석, Luhmann 탐색과 Roam 백서·현재 방향 조사. 제품 편집·사용자 성과 실험은 미수행.
 
 사례 자체의 기술 → Knowledge → Knowledge System → Interaction → Human Outcome → na implications 순서로 연구한다. 제품 요구사항은 [현재 제품 문서](../../docs/product.md)가 기준이다.
 
 ## 진입점
+
+- [Roam Research: 백서의 구상과 현재의 방향](synthesis/roam-whitepaper-and-direction.md): 초기 협업·추론 비전, 현재 읽기·검색·AI 연동, 기본 기능과 확장 경계. [사례·주장 장부](cases/roam.md).
 
 - [루만의 노트박스: 배열·참조·탐험, 그리고 디지털 도구](synthesis/luhmann-note-system.md): ZK I·II, 실제 탐색 경로, Obsidian·Roam 비교. [출처·주장 장부](cases/luhmann.md). 2026-09-28 추가.
 
